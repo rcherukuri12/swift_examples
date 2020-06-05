@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "readers",
+        "repositoryURL": "/home/raja/learning/s4tf_fun/data_readers",
+        "state": {
+          "branch": null,
+          "revision": "c52cf15e22b2e8869154714035fcd4e217d51f2b",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

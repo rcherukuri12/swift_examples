@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "readers",
+        "repositoryURL": "/home/raja/learning/s4tf_fun/data_readers",
+        "state": {
+          "branch": null,
+          "revision": "c52cf15e22b2e8869154714035fcd4e217d51f2b",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "223d62adc52d51669ae2ee19bdb8b7d9fd6fcd9c",
+          "version": "0.0.6"
+        }
+      },
+      {
+        "package": "TensorFlowModels",
+        "repositoryURL": "https://github.com/tensorflow/swift-models/",
+        "state": {
+          "branch": "master",
+          "revision": "310b0e0558c4ef0b9f89de08a8b49cee97d78456",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftProtobuf",
+        "repositoryURL": "https://github.com/apple/swift-protobuf.git",
+        "state": {
+          "branch": null,
+          "revision": "7f36441e3372665b1b414f8ac93b5905cc42a405",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "TensorBoardS",
+        "repositoryURL": "https://github.com/t-ae/tensorboardS",
+        "state": {
+          "branch": "master",
+          "revision": "51f5c89f04ff16e33a2a0ba7e9f3d9fdc353fc2c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
